@@ -41,3 +41,7 @@ Source: manual entry from Huawei Health screenshots
 - **Steps**: 2,695
 - **Calories**: 184 kcal total (158 active)
 - **Aerobic training stress**: 1.9 (Recovery)
+- **Avg / max HR**: 149 / 173 bpm
+- **Zone time (Huawei)**: Extreme 2 min, Anaerobic 7 min, Aerobic 5 min, Fat-burning 2 min, Warm-up 1 min
+- **HR curve**: started ~99 bpm, climbed steadily to ~160–170; two sharp dips near minute 5 and minute 10 (likely short slow-downs or walking), then HR rebounded
+- **HR recovery**: dropped 21 bpm (162 → 119)
