@@ -6,7 +6,7 @@
 - **Distance**: 5K
 - **Target Time**: 38:00 – 40:00 (finish kuat, bukan PR)
 - **Target Pace**: ~7:40 – 8:00 /km
-- **Training Days**: 3 hari per minggu (asumsi, bisa disesuaikan)
+- **Training Days**: 4 hari per minggu
 - **Plan Duration**: 19 hari (21 Okt – 8 Nov 2026)
 
 ### Asumsi
@@ -31,49 +31,53 @@ Dihitung dengan `calculate_paces.py` untuk 5K dalam 37:30. Easy sengaja lebih la
 
 ### Phase 1: Foundation (Minggu 1: 21–25 Okt)
 **Focus**: Naikkan jarak dari 2.2 km ke 3.5 km dengan pace santai
-**Volume**: ~9 km
+**Volume**: ~11 km
 **Key Sessions**: Lari easy yang makin panjang, boleh selingi jalan 1 menit tiap 1 km
 
 ### Phase 2: Build (Minggu 2: 26 Okt – 1 Nov)
 **Focus**: Capai 4 km, perkenalkan sedikit kecepatan di pace target
-**Volume**: ~10 km
+**Volume**: ~12.5 km
 **Key Sessions**: 3 x 500 m @ pace target, long run 4 km
 
 ### Phase 3: Taper & Race (Minggu 3: 2–8 Nov)
 **Focus**: Segar saat hari-H, jaga kaki tetap "hidup"
-**Volume**: ~6 km + race 5 km
+**Volume**: ~9.4 km + race 5 km
 **Key Sessions**: Easy pendek, strides, race
 
 ## Week-by-Week Training Schedule
 
 ### Week 1: Foundation (21–25 Okt)
-**Total Volume**: 9.0 km
+**Total Volume**: 11.0 km
 **Focus**: Naik jarak bertahap, semua easy
 
 - **Rabu 21 Okt**: Easy 2.5 km @ E pace
 - **Kamis**: Istirahat
 - **Jumat 23 Okt**: Easy 3.0 km @ E pace (boleh jalan 1 menit di tiap km)
-- **Sabtu**: Istirahat
+- **Sabtu 24 Okt**: Easy 2.0 km @ E pace, sangat santai
 - **Minggu 25 Okt**: Long run 3.5 km @ E pace, lari pelan, tujuan jarak
 
 ### Week 2: Build (26 Okt – 1 Nov)
-**Total Volume**: 10.0 km
+**Total Volume**: 12.5 km
 **Focus**: Rasakan pace target, capai 4 km
 
+- **Senin**: Istirahat
 - **Selasa 27 Okt**: Intervals: 0.5 km easy warm-up, 3 x 0.5 km @ pace target 7:30 /km (0.3 km jalan/jog recovery), 0.5 km easy cool-down (3.1 km)
 - **Rabu**: Istirahat
 - **Kamis 29 Okt**: Easy 2.9 km @ E pace + 4 strides (±15 detik, rileks)
-- **Jumat–Sabtu**: Istirahat
+- **Jumat**: Istirahat
+- **Sabtu 31 Okt**: Easy 2.5 km @ E pace
 - **Minggu 1 Nov**: Long run 4.0 km @ E pace (boleh selingi jalan 1 menit)
 
 ### Week 3: Taper & Race (2–8 Nov)
-**Total Volume**: 5.9 km + race 5 km
+**Total Volume**: 9.4 km + race 5 km
 **Focus**: Turunkan beban, tiba di garis start segar
 
+- **Senin 2 Nov**: Easy 2.0 km @ E pace
 - **Selasa 3 Nov**: Easy 3.0 km @ E pace
 - **Rabu**: Istirahat
 - **Kamis 5 Nov**: 1.0 km easy warm-up, 4 x 0.2 km @ 7:15 /km (0.2 km jog recovery), 0.5 km easy cool-down (2.9 km)
-- **Jumat–Sabtu 6–7 Nov**: Istirahat, tidur cukup, makan karbo normal, siapkan sepatu dan baju
+- **Jumat 6 Nov**: Istirahat
+- **Sabtu 7 Nov**: Shakeout easy 1.5 km + 2 strides, lalu tidur cukup, makan karbo normal, siapkan sepatu dan baju
 - **Minggu 8 Nov**: **RACE 5K**
 
 ## Race Day Strategy
