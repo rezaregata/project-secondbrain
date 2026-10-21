@@ -105,3 +105,7 @@ docker-compose.yml    # PostgreSQL + pgvector
 3. `docker compose up -d`
 4. Jalankan bot dengan systemd atau supervisor
 5. Ganti `AI_PROVIDER` ke `gemini` atau `openai` jika diperlukan
+
+## Running coach skills
+
+Skills dari [ColinEberhardt/claude-running-coach](https://github.com/ColinEberhardt/claude-running-coach) ada di `.claude/skills/` (`training-plan`, `running-coach`, `strava-sync`, `training-dashboard`). Data tersimpan di repo ini: `training-plan.md`, `training-log/`, `coaching-log/`. Commit dan push setelah tiap sesi supaya data tidak hilang.
