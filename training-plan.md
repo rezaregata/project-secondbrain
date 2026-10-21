@@ -50,8 +50,8 @@ Dihitung dengan `calculate_paces.py` untuk 5K dalam 40:00 sebagai acuan zona kec
 **Focus**: Jaga volume, semua easy
 
 - **Rabu 21 Okt**: SUDAH: 2.16 km @ 7:50 (terlalu cepat untuk easy, HR 150)
-- **Kamis**: Istirahat
-- **Jumat 23 Okt**: Easy 3.5 km @ E pace, targetkan ~9:00–9:30 /km. Boleh pola lari 1 km, jalan 1 menit
+- **Kamis 22 Okt**: Easy 3.5 km @ E pace, targetkan ~9:00–9:30 /km. Boleh pola lari 1 km, jalan 1 menit
+- **Jumat**: Istirahat
 - **Sabtu 24 Okt**: Easy 2.0 km @ E pace, sangat santai
 - **Minggu 25 Okt**: Long run 5.0 km @ E pace dengan pola lari 1 km, jalan 1 menit (ulang), jangan dipaksa lari terus
 
