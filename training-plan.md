@@ -4,86 +4,85 @@
 - **Race**: 5K
 - **Date**: Minggu, 8 November 2026
 - **Distance**: 5K
-- **Target Time**: 38:00 – 40:00 (finish kuat, bukan PR)
-- **Target Pace**: ~7:40 – 8:00 /km
+- **Target Time**: 40:00 – 42:00 (finish kuat, bukan PR)
+- **Target Pace**: ~8:00 – 8:25 /km
 - **Training Days**: 4 hari per minggu
 - **Plan Duration**: 19 hari (21 Okt – 8 Nov 2026)
 
-### Asumsi
-- Pace nyaman sekarang 7:00 – 8:00 /km, tetapi jarak terpanjang baru 2.2 km.
-- Waktu hanya ~2.5 minggu, jadi tujuan realistis: **bangun jarak sampai 4 km tanpa cedera, lalu finish 5K dengan nyaman**. Jarak tidak bisa dikejar secepat itu, jadi jangan mengejar pace.
-- Tidak ada riwayat cedera yang disebut. Kalau ada, kabari saya.
+### Dasar penyusunan (update 21 Okt, dari data Huawei Health)
+- Dalam 7 hari terakhir: 2.30 km (8:47), **5.55 km (8:58, HR 144)**, 2.19 km (8:20), 2.16 km (7:50) = 12.2 km. Log ada di `training-log/week-0.md` dan `week-1.md`.
+- Anda sudah menyelesaikan 5.55 km, jadi jarak 5K bukan masalah. Rencana awal (long run 3.5–4 km) terlalu konservatif dan sudah diganti.
+- Fokus berubah: tetap sehat, naikkan jarak perlahan, dan latih pace sekitar 8:00–8:15 per km.
+- Waktu hanya ~2.5 minggu, jadi kenaikan volume dibatasi sekitar 15% per minggu.
 
 ## Training Paces
 
 | Pace Type | Description | Pace Range | Effort (RPE) |
 |-----------|-------------|------------|--------------|
-| Easy (E) | Lari santai, bisa ngobrol | 8:45 – 9:45 /km | 2-4/10 |
-| Threshold (T) | Cukup berat tapi stabil | 7:50 – 8:10 /km | 6-7/10 |
-| Interval (I) | Berat tapi terkendali | 7:20 – 7:40 /km | 8/10 |
-| Race (R5K) | Target 5K | 7:30 – 8:00 /km | Race effort |
+| Easy (E) | Lari santai, bisa ngobrol, HR ≤ ~150 | 9:00 – 10:00 /km | 2-4/10 |
+| Threshold (T) | Cukup berat tapi stabil | 8:22 – 8:42 /km | 6-7/10 |
+| Interval (I) | Berat tapi terkendali | 7:50 – 8:09 /km | 8/10 |
+| Race (R5K) | Target 5K | 8:00 – 8:25 /km | Race effort |
 
-Dihitung dengan `calculate_paces.py` untuk 5K dalam 37:30. Easy sengaja lebih lambat dari pace 7-8 Anda sekarang. Jarak yang bertambah harus dijalani santai.
-
-**Catatan**: sesuaikan dengan medan, cuaca, dan kondisi badan. Ini panduan, bukan aturan mutlak.
+Dihitung dengan `calculate_paces.py` untuk 5K dalam 40:00. Pace easy di tabel dibulatkan agar sesuai lari santai Anda (8:47–8:58 per km dengan HR 144–149 sudah di batas atas easy). Untuk long run, pelan lebih baik daripada cepat. **Catatan**: sesuaikan dengan medan, cuaca, dan kondisi badan.
 
 ## Plan Structure
 
 ### Phase 1: Foundation (Minggu 1: 21–25 Okt)
-**Focus**: Naikkan jarak dari 2.2 km ke 3.5 km dengan pace santai
-**Volume**: ~11 km
-**Key Sessions**: Lari easy yang makin panjang, boleh selingi jalan 1 menit tiap 1 km
+**Focus**: Jaga jarak sekitar 12 km, long run 5 km
+**Volume**: ~12.7 km
+**Key Sessions**: Lari easy, long run 5 km
 
 ### Phase 2: Build (Minggu 2: 26 Okt – 1 Nov)
-**Focus**: Capai 4 km, perkenalkan sedikit kecepatan di pace target
-**Volume**: ~12.5 km
-**Key Sessions**: 3 x 500 m @ pace target, long run 4 km
+**Focus**: Rasakan pace target, long run 5.5 km
+**Volume**: ~14.6 km
+**Key Sessions**: 3 x 500 m @ 8:00 /km, long run 5.5 km
 
 ### Phase 3: Taper & Race (Minggu 3: 2–8 Nov)
-**Focus**: Segar saat hari-H, jaga kaki tetap "hidup"
-**Volume**: ~9.4 km + race 5 km
+**Focus**: Segar saat hari-H
+**Volume**: ~9.9 km + race 5 km
 **Key Sessions**: Easy pendek, strides, race
 
 ## Week-by-Week Training Schedule
 
 ### Week 1: Foundation (21–25 Okt)
-**Total Volume**: 11.0 km
-**Focus**: Naik jarak bertahap, semua easy
+**Total Volume**: 12.7 km (termasuk 2.16 km yang sudah dilari 21 Okt)
+**Focus**: Jaga volume, semua easy
 
-- **Rabu 21 Okt**: Easy 2.5 km @ E pace
+- **Rabu 21 Okt**: SUDAH: 2.16 km @ 7:50 (terlalu cepat untuk easy, HR 150)
 - **Kamis**: Istirahat
-- **Jumat 23 Okt**: Easy 3.0 km @ E pace (boleh jalan 1 menit di tiap km)
+- **Jumat 23 Okt**: Easy 3.5 km @ E pace, targetkan ~9:00–9:30 /km
 - **Sabtu 24 Okt**: Easy 2.0 km @ E pace, sangat santai
-- **Minggu 25 Okt**: Long run 3.5 km @ E pace, lari pelan, tujuan jarak
+- **Minggu 25 Okt**: Long run 5.0 km @ E pace (boleh jalan 1 menit tiap 1.5 km kalau perlu)
 
 ### Week 2: Build (26 Okt – 1 Nov)
-**Total Volume**: 12.5 km
-**Focus**: Rasakan pace target, capai 4 km
+**Total Volume**: 14.6 km
+**Focus**: Rasakan pace target, long run 5.5 km
 
 - **Senin**: Istirahat
-- **Selasa 27 Okt**: Intervals: 0.5 km easy warm-up, 3 x 0.5 km @ pace target 7:30 /km (0.3 km jalan/jog recovery), 0.5 km easy cool-down (3.1 km)
+- **Selasa 27 Okt**: Intervals: 0.5 km easy warm-up, 3 x 0.5 km @ 8:00 /km (0.3 km jalan/jog recovery), 0.5 km easy cool-down (3.1 km)
 - **Rabu**: Istirahat
-- **Kamis 29 Okt**: Easy 2.9 km @ E pace + 4 strides (±15 detik, rileks)
+- **Kamis 29 Okt**: Easy 3.5 km @ E pace + 4 strides (±15 detik, rileks)
 - **Jumat**: Istirahat
 - **Sabtu 31 Okt**: Easy 2.5 km @ E pace
-- **Minggu 1 Nov**: Long run 4.0 km @ E pace (boleh selingi jalan 1 menit)
+- **Minggu 1 Nov**: Long run 5.5 km @ E pace
 
 ### Week 3: Taper & Race (2–8 Nov)
-**Total Volume**: 9.4 km + race 5 km
+**Total Volume**: 9.9 km + race 5 km
 **Focus**: Turunkan beban, tiba di garis start segar
 
 - **Senin 2 Nov**: Easy 2.0 km @ E pace
-- **Selasa 3 Nov**: Easy 3.0 km @ E pace
+- **Selasa 3 Nov**: Easy 3.5 km @ E pace
 - **Rabu**: Istirahat
-- **Kamis 5 Nov**: 1.0 km easy warm-up, 4 x 0.2 km @ 7:15 /km (0.2 km jog recovery), 0.5 km easy cool-down (2.9 km)
+- **Kamis 5 Nov**: 1.0 km easy warm-up, 4 x 0.2 km @ 7:50 /km (0.2 km jog recovery), 0.5 km easy cool-down (2.9 km)
 - **Jumat 6 Nov**: Istirahat
 - **Sabtu 7 Nov**: Shakeout easy 1.5 km + 2 strides, lalu tidur cukup, makan karbo normal, siapkan sepatu dan baju
 - **Minggu 8 Nov**: **RACE 5K**
 
 ## Race Day Strategy
 - Warm-up: jalan cepat 5 menit + jog ringan 5 menit + 2 strides.
-- Km 1: mulai **lebih pelan** dari yang terasa wajar (±8:00 /km).
-- Km 2–4: stabil di 7:40 – 7:55 /km. Kalau napas terlalu berat, jalan 30–60 detik lalu lanjut.
+- Km 1: mulai **lebih pelan** dari yang terasa wajar (±8:20 /km).
+- Km 2–4: stabil di 8:00 – 8:10 /km. Kalau napas terlalu berat, jalan 30–60 detik lalu lanjut.
 - Km 5: tambah tenaga yang tersisa.
 - Jangan coba makanan, sepatu, atau pakaian baru di hari lomba.
 
