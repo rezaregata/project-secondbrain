@@ -4,15 +4,15 @@
 - **Race**: 5K
 - **Date**: Minggu, 8 November 2026
 - **Distance**: 5K
-- **Target Time**: 40:00 – 42:00 (finish kuat, bukan PR)
-- **Target Pace**: ~8:00 – 8:25 /km
+- **Target Time**: 42:00 – 44:00 dengan strategi lari-jalan (finish kuat, bukan PR)
+- **Target Pace**: rata-rata ~8:25 – 8:50 /km (lari ~8:00 /km, jalan 1 menit tiap 1 km)
 - **Training Days**: 4 hari per minggu
 - **Plan Duration**: 19 hari (21 Okt – 8 Nov 2026)
 
 ### Dasar penyusunan (update 21 Okt, dari data Huawei Health)
 - Dalam 7 hari terakhir: 2.30 km (8:47), **5.55 km (8:58, HR 144)**, 2.19 km (8:20), 2.16 km (7:50) = 12.2 km. Log ada di `training-log/week-0.md` dan `week-1.md`.
-- Anda sudah menyelesaikan 5.55 km, jadi jarak 5K bukan masalah. Rencana awal (long run 3.5–4 km) terlalu konservatif dan sudah diganti.
-- Fokus berubah: tetap sehat, naikkan jarak perlahan, dan latih pace sekitar 8:00–8:15 per km.
+- Anda sudah menyelesaikan 5.55 km, tetapi **sekitar setengahnya jalan** (konfirmasi 21 Okt). Artinya lari terus-menerus baru ±2 km, namun jarak 5K sudah terjangkau dengan strategi lari-jalan. Rencana ini memakai strategi lari-jalan yang terstruktur.
+- Fokus berubah: tetap sehat, naikkan jarak perlahan, dan latih pola lari-jalan yang rapi dan tambah porsi lari sedikit demi sedikit.
 - Waktu hanya ~2.5 minggu, jadi kenaikan volume dibatasi sekitar 15% per minggu.
 
 ## Training Paces
@@ -22,9 +22,9 @@
 | Easy (E) | Lari santai, bisa ngobrol, HR ≤ ~150 | 9:00 – 10:00 /km | 2-4/10 |
 | Threshold (T) | Cukup berat tapi stabil | 8:22 – 8:42 /km | 6-7/10 |
 | Interval (I) | Berat tapi terkendali | 7:50 – 8:09 /km | 8/10 |
-| Race (R5K) | Target 5K | 8:00 – 8:25 /km | Race effort |
+| Race (R5K) | Target 5K (saat berlari, bukan rata-rata) | ~8:00 /km | Race effort |
 
-Dihitung dengan `calculate_paces.py` untuk 5K dalam 40:00. Pace easy di tabel dibulatkan agar sesuai lari santai Anda (8:47–8:58 per km dengan HR 144–149 sudah di batas atas easy). Untuk long run, pelan lebih baik daripada cepat. **Catatan**: sesuaikan dengan medan, cuaca, dan kondisi badan.
+Dihitung dengan `calculate_paces.py` untuk 5K dalam 40:00 sebagai acuan zona kecepatan saat berlari. Pace easy di tabel dibulatkan agar sesuai lari santai Anda (8:47–8:58 per km dengan HR 144–149 sudah di batas atas easy). Untuk long run, pelan lebih baik daripada cepat. **Catatan**: sesuaikan dengan medan, cuaca, dan kondisi badan.
 
 ## Plan Structure
 
@@ -51,9 +51,9 @@ Dihitung dengan `calculate_paces.py` untuk 5K dalam 40:00. Pace easy di tabel di
 
 - **Rabu 21 Okt**: SUDAH: 2.16 km @ 7:50 (terlalu cepat untuk easy, HR 150)
 - **Kamis**: Istirahat
-- **Jumat 23 Okt**: Easy 3.5 km @ E pace, targetkan ~9:00–9:30 /km
+- **Jumat 23 Okt**: Easy 3.5 km @ E pace, targetkan ~9:00–9:30 /km. Boleh pola lari 1 km, jalan 1 menit
 - **Sabtu 24 Okt**: Easy 2.0 km @ E pace, sangat santai
-- **Minggu 25 Okt**: Long run 5.0 km @ E pace (boleh jalan 1 menit tiap 1.5 km kalau perlu)
+- **Minggu 25 Okt**: Long run 5.0 km @ E pace dengan pola lari 1 km, jalan 1 menit (ulang), jangan dipaksa lari terus
 
 ### Week 2: Build (26 Okt – 1 Nov)
 **Total Volume**: 14.6 km
@@ -72,7 +72,7 @@ Dihitung dengan `calculate_paces.py` untuk 5K dalam 40:00. Pace easy di tabel di
 **Focus**: Turunkan beban, tiba di garis start segar
 
 - **Senin 2 Nov**: Easy 2.0 km @ E pace
-- **Selasa 3 Nov**: Easy 3.5 km @ E pace
+- **Selasa 3 Nov**: Easy 3.5 km @ E pace (lari-jalan seperti rencana race)
 - **Rabu**: Istirahat
 - **Kamis 5 Nov**: 1.0 km easy warm-up, 4 x 0.2 km @ 7:50 /km (0.2 km jog recovery), 0.5 km easy cool-down (2.9 km)
 - **Jumat 6 Nov**: Istirahat
@@ -81,8 +81,9 @@ Dihitung dengan `calculate_paces.py` untuk 5K dalam 40:00. Pace easy di tabel di
 
 ## Race Day Strategy
 - Warm-up: jalan cepat 5 menit + jog ringan 5 menit + 2 strides.
+- **Pola**: lari ±1 km, jalan 1 menit, ulang. Jalan sebelum kehabisan napas, bukan sesudahnya.
 - Km 1: mulai **lebih pelan** dari yang terasa wajar (±8:20 /km).
-- Km 2–4: stabil di 8:00 – 8:10 /km. Kalau napas terlalu berat, jalan 30–60 detik lalu lanjut.
+- Km 2–4: lari stabil ±8:00 /km, jalan 1 menit tiap km.
 - Km 5: tambah tenaga yang tersisa.
 - Jangan coba makanan, sepatu, atau pakaian baru di hari lomba.
 

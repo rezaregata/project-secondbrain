@@ -29,7 +29,7 @@ Source: manual entry from Huawei Health screenshots
 - **Steps**: 5,854
 - **Calories**: 469 kcal total (398 active)
 - **Aerobic training stress**: 2.8 (Maintained)
-- **Notes**: Longest run so far; low cadence suggests walking breaks (to confirm).
+- **Notes**: Longest run so far; about half of it was walking (confirmed by athlete).
 
 ## Tue 20 Oct 2026, 05:54 – Outdoor run
 - **Distance**: 2.19 km
