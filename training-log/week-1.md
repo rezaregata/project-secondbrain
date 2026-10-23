@@ -3,8 +3,8 @@
 Source: manual entry from Huawei Health screenshot
 
 ## Summary
-- Activities: 1 so far
-- Total distance: 2.16 km
+- Activities: 2 so far
+- Total distance: 5.72 km
 
 ---
 
@@ -27,3 +27,20 @@ Source: manual entry from Huawei Health screenshot
 - **HR curve**: started ~96 bpm, climbed steadily to ~160–170 by minute 10 and stayed there with no plateau; peaked ~173 near the end
 - **HR recovery**: dropped 23 bpm (170 → 124)
 - **Notes**: Most of the run was in the Anaerobic zone at a pace meant to be easy. Went out too fast.
+
+---
+
+## Fri 23 Oct 2026, 07:43 – Outdoor run (easy, run/walk)
+- **Distance**: 3.56 km (plan: 3.5 km easy; moved from Thu 22 Oct, Thu was rest)
+- **Duration**: 00:35:57
+- **Avg pace**: 10:06 /km (includes walking)
+- **Avg speed**: 5.94 km/h
+- **Avg heart rate**: 131 bpm (max 160)
+- **Avg cadence**: 115 steps/min
+- **Avg stride**: 86 cm
+- **Steps**: 4,139
+- **Calories**: 297 kcal total (246 active)
+- **HR zones (Huawei)**: Extreme 0 min, Anaerobic 3 min, Aerobic 13 min, Fat-burning 13 min, Warm-up 5 min
+- **HR curve**: ~91 -> ~150 over first 12 min, three peaks to ~150-160 at minutes ~13, ~20 and ~26, settling to ~115-125 in the last 8 min
+- **HR recovery**: dropped 2 bpm (120 -> 115)
+- **Notes**: Much better HR control than 20-21 Oct (avg 131 vs 149-150); easy run/walk executed as planned.
