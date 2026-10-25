@@ -44,3 +44,21 @@ Source: manual entry from Huawei Health screenshot
 - **HR curve**: ~91 -> ~150 over first 12 min, three peaks to ~150-160 at minutes ~13, ~20 and ~26, settling to ~115-125 in the last 8 min
 - **HR recovery**: dropped 2 bpm (120 -> 115)
 - **Notes**: Much better HR control than 20-21 Oct (avg 131 vs 149-150); easy run/walk executed as planned.
+
+---
+
+## Sun 25 Oct 2026, 16:34 – Beginner Long Run (run/walk)
+- **Distance**: 4.21 km (plan: 5.0 km long run, cut short)
+- **Duration**: 00:42:07
+- **Avg pace**: 10:00 /km (includes walking)
+- **Avg speed**: 6.00 km/h
+- **Avg heart rate**: 139 bpm (max 166)
+- **Avg cadence**: 123 steps/min
+- **Avg stride**: 81 cm
+- **Steps**: 5,208
+- **Calories**: 374 kcal total (313 active)
+- **Aerobic training stress**: 2.5 (Maintained)
+- **HR zones (Huawei)**: Extreme 0 min, Anaerobic 15 min, Aerobic 11 min, Fat-burning 13 min, Warm-up 1 min
+- **HR curve**: rose to ~150-165 by minute 5 and stayed high until ~min 20, then fell and dipped to ~120s after minute 25
+- **HR recovery**: dropped 4 bpm (123 -> 115)
+- **Notes**: Right leg felt sore during the run. Stopped short of 5 km. Sat 24 Oct was skipped by the athlete. Hold running until the right leg is pain-free.
