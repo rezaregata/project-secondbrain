@@ -40,3 +40,21 @@ Source: manual entry from Huawei Health screenshots
 - **HR curve**: rose to ~150 at min 13 (peak 155), then mostly 135–148 for the rest of the run
 - **Pace curve**: flat at ~10:19 with one dip near min 14 (walk break); no fast bursts
 - **Notes**: Controlled easy effort, much better than 4 Nov. Longer than a taper day should be (5.13 km 3 days before race). No more running planned before race except optional 1.5 km shakeout. Right leg status not yet reported.
+
+---
+
+## Sun 8 Nov 2026, 05:44 – RACE: Skybridge Run, Purwokerto (5K)
+- **Distance (watch)**: 5.38 km (GPS; race course is 5 km, extra distance usually from weaving and GPS drift)
+- **Duration (watch)**: 00:41:14
+- **Avg pace**: 7:40 /km
+- **Splits (watch)**: km1 7:53 | km2 7:50 | km3 8:02 | km4 7:32 | km5 7:25 | last 0.38 km 6:44
+- **Avg speed**: 7.83 km/h
+- **Avg heart rate**: 162 bpm (max 179)
+- **Avg cadence**: 148 steps/min
+- **Avg stride**: 88 cm
+- **Steps**: 6,133
+- **Calories**: 479 kcal total (420 active)
+- **Aerobic training stress**: 3.3 (Improved)
+- **HR zones (Huawei)**: Extreme 10 min, Anaerobic 27 min, Aerobic 1 min
+- **HR curve**: rose to ~160 by min 4, held ~160–170 for the rest, a dip near min 19, final push to ~179
+- **Notes**: Even pace with negative split (km 4–5 faster than km 1–3) and a strong finish. Finished under the 42–44 min target. Official chip time not yet confirmed.
