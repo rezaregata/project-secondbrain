@@ -43,3 +43,20 @@ Source: manual entry from Huawei Health screenshots
 - **HR curve**: climbed to ~150–160 by min 12–18, dipped to ~115 at min 23–24 (walk break), back to ~160 at min 30, eased to ~115 at the end
 - **HR recovery**: 120 -> 121 at end (no rise)
 - **Notes**: Mostly within the 120–150 target, but the main part ran faster than the easy range and HR reached 160 twice. Walk break at min 23–24 helped bring HR down. Right-leg status not reported in this entry. Watch date shows 13 Nov, while the chat date is 12 Nov; logged as shown on the watch.
+
+---
+
+## Sun 15 Nov 2026, 16:33 – "Easy 3 KM" (Huawei custom workout; plan was easy 4 km)
+- **Plan**: Easy 4 km, HR 120–150, easy pace (planned ~10:30–11:00 /km by coach suggestion)
+- **Distance**: 3.37 km (main run 3.00 km completed, then a short walk to finish)
+- **Duration**: 00:43:33
+- **Avg pace**: 12:55 /km (main 3.00 km at 12:44 /km)
+- **Avg heart rate**: 116 bpm (max 129)
+- **Avg cadence**: 134 steps/min
+- **Avg stride**: 57 cm
+- **Steps**: 5,872
+- **Calories**: 280 kcal total (218 active)
+- **Aerobic training stress**: 1.4 (Recovery)
+- **HR zones (Huawei)**: Fat-burning 36 min, Warm-up 7 min, no time above Fat-burning
+- **HR recovery**: 101 -> 101 at end
+- **Notes**: Continuous running, no walk breaks in the main run. Very easy effort, HR never above 129. Pace slower than planned and stride short. Run was shorter than the 4 km plan. Right-leg status reported as fine on 14 Nov.
