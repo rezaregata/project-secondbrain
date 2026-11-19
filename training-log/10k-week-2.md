@@ -42,3 +42,4 @@ Source: manual entry from Huawei Health screenshots
 - **HR zones (Huawei)**: Aerobic 21 min, Anaerobic 6 min, Fat-burning 6 min, Extreme <1 min
 - **Strides**: 2 fast bursts around min 19–23 at ~4:00–4:30 /km (described by athlete). Plan was 4 strides of 15 s at a relaxed 6:30–7:00 /km. Strides were faster than planned.
 - **Notes**: Easy run around 9:30–10:00 /km before strides, HR 130–150. Right leg not reported in this entry. Recovery time 10 h is higher than the 7 h on 19 Nov.
+- **Athlete note (20 Nov)**: first stride felt good and was not labored. Stopped for traffic before the second. Second stride breathing became labored, so it was too hard for a relaxed stride.
