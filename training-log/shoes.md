@@ -13,3 +13,7 @@ Track which pair was used for each run. Mileage per pair is the sum of the runs 
 ## Notes
 - Run mileage per pair is not tracked yet. Add a per-run "Shoe" line in the training logs from now on.
 - Ortus mileage before 19 Nov is not calculated here.
+
+## Rule for logging
+- Screenshots do not show the shoe. If the user does not name a pair, ask once before logging.
+- If the user has already named a pair for the current period, use it and confirm in one line (e.g. "saya catat Anta PG 7 Travel 2, benar?").
