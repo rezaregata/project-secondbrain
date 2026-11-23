@@ -43,3 +43,18 @@ Source: manual entry from Huawei Health screenshots
 - **Strides**: 2 fast bursts around min 19–23 at ~4:00–4:30 /km (described by athlete). Plan was 4 strides of 15 s at a relaxed 6:30–7:00 /km. Strides were faster than planned.
 - **Notes**: Easy run around 9:30–10:00 /km before strides, HR 130–150. Right leg not reported in this entry. Recovery time 10 h is higher than the 7 h on 19 Nov.
 - **Athlete note (20 Nov)**: first stride felt good and was not labored. Stopped for traffic before the second. Second stride breathing became labored, so it was too hard for a relaxed stride.
+
+---
+
+## Sun 23 Nov 2026, 08:30 – "Zone 2 40m" (Huawei custom run; personal zone 2 test, not in plan)
+- **Distance**: 3.72 km (run 3.04 km, then about 17 min walking)
+- **Duration**: 01:00:45
+- **Avg pace**: 16:20 /km (run segment 13:10 /km)
+- **Avg heart rate**: 118 bpm (max 143)
+- **Avg cadence**: 99 steps/min (run segment 127)
+- **Steps**: 6,028
+- **Calories**: 402 kcal total (315 active)
+- **Aerobic training stress**: 2.0 (Maintained)
+- **HR zones (Huawei)**: Fat-burning 30 min, Aerobic 16 min, Warm-up 8 min, Anaerobic 0 min
+- **HR curve**: 115–130 for the first 30 min, peak 143 at ~min 19, drifted down to ~85–95 during the walk at the end
+- **Notes**: Athlete tested running at Huawei zone 2. HR stayed in Fat-burning and Aerobic, with no Anaerobic time. Pace was much slower than the easy range in the plan (10:15–11:10). Shows that zone 2 by HR is about 12:30–13:30 /km for this athlete right now.
