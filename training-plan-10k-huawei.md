@@ -49,3 +49,17 @@ Intensity focus: set per movement as listed below.
 - Run: Distance 10 km. Intensity focus: Pace, 8'30" – 9'00"/km
 - Relax: Time 5 min. Intensity focus: Heart rate range, under 120 bpm
 - Used on: Sun 29 Nov
+
+## 8. Z2 30 menit (program W8 / W9)
+- Warm-up: Time 5 min. Intensity focus: None (jogging, dynamic stretching dan stride dilakukan manual)
+- Run: Time 30 min. Intensity focus: Heart rate zone, zona 2
+- Relax: Time 3 min. Intensity focus: Heart rate range, under 120 bpm
+- Used on: Thu 26 Nov, Tue 1 Dec, Thu 3 Dec
+
+## 9. Z2 55 menit
+- Warm-up: Time 5 min. Intensity focus: None
+- Run: Time 55 min. Intensity focus: Heart rate zone, zona 2
+- Relax: Time 3 min. Intensity focus: Heart rate range, under 120 bpm
+- Used on: Sun 6 Dec
+
+Note: workouts 4 (Intervals 800 m x3) and 5 (Intervals 500 m x3) are not used in the W8 / W9 program.

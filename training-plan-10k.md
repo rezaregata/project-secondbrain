@@ -65,16 +65,27 @@
 - **Sabtu 21 Nov**: Easy 3.0 km @ E pace
 - **Minggu 22 Nov**: Long run 5.5 km @ E pace (boleh jalan 1 menit tiap 2 km kalau perlu)
 
-### Week 3: Taper & Race (23–29 Nov)
-**Total Volume**: 8.5 km + race 10 km
+### Week 3: Taper & Race (23–29 Nov), jadwal mengikuti program W8
+**Fokus**: Adaptation to Training, Increase Mileage, Building Strength, Focus Duration/Volume
 
-- **Senin 23 Nov**: Istirahat
-- **Selasa 24 Nov**: Easy 3.0 km @ E pace
-- **Rabu 25 Nov**: Istirahat
-- **Kamis 26 Nov**: Intervals: 1.0 km easy warm-up, 3 x 500 m @ 8:20 /km (200 m jog recovery), 0.5 km easy cool-down (3.5 km total). Lebih ringan dari minggu 2, tujuannya hanya mengingat pace.
-- **Jumat 27 Nov**: Istirahat
-- **Sabtu 28 Nov**: Shakeout easy 2.0 km + 2 strides, lalu siapkan sepatu, pakaian, dan tidur cukup
-- **Minggu 29 Nov**: **RACE 10K**
+- **Senin 23 Nov**: Istirahat (sudah ada lari zona 2 3,72 km)
+- **Selasa 24 Nov**: Warm-up 5 menit jogging, dynamic stretching (running drills), stride. Lari 30 menit zona 2. Cooling down: static stretching. (Sudah dilakukan, 48 menit)
+- **Rabu 25 Nov**: Latbar (latihan beban)
+- **Kamis 26 Nov**: Warm-up 5 menit jogging, dynamic stretching, stride. Lari 30 menit zona 2. Cooling down: static stretching.
+- **Jumat 27 Nov**: Strength
+- **Sabtu 28 Nov**: Istirahat
+- **Minggu 29 Nov**: **RACE 10K** (tidak termasuk di jadwal program; menggantikan 50 menit Z2 di W8)
+
+### Week 4 (30 Nov – 6 Des), jadwal program W9
+- **Senin 30 Nov**: Istirahat
+- **Selasa 1 Des**: Warm-up 5 menit jogging, dynamic stretching, stride. Lari 30 menit zona 2. Cooling down: static stretching.
+- **Rabu 2 Des**: Latbar
+- **Kamis 3 Des**: Warm-up 5 menit jogging, dynamic stretching, stride. Lari 30 menit zona 2. Cooling down: static stretching.
+- **Jumat 4 Des**: Strength
+- **Sabtu 5 Des**: Istirahat
+- **Minggu 6 Des**: Warm-up 5 menit jogging, dynamic stretching, stride. Lari **55 menit** zona 2. Cooling down: static stretching.
+
+Zona 2 dipandu detak jantung (zona 2 Huawei) dan tes bicara, bukan pace. Pace zona 2 untuk Anda sekitar 11:00–13:00 per km. Stride dilakukan santai (±15 detik), dan berhenti kalau napas mulai terengah.
 
 ## Race Day Strategy
 - **Warm-up**: jalan cepat 5 menit, jog ringan 5 menit, 2 strides.
